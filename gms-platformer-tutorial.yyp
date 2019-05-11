@@ -58,6 +58,25 @@
             }
         },
         {
+            "Key": "0f868a57-988a-4854-b5ce-aa8a6f86c52a",
+            "Value": {
+                "id": "b968b4ee-6dc5-4616-b832-3b60effbcbea",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_enemy_run\/spr_enemy_run.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0fde9ad9-eb62-4c61-9602-10f9fb8d0b2d",
             "Value": {
                 "id": "a0fe86f1-622a-4f2e-8eac-3ff99e856bb0",
@@ -115,6 +134,63 @@
             }
         },
         {
+            "Key": "17757fec-871a-46a8-92a8-a4be8c1685aa",
+            "Value": {
+                "id": "91970644-8c49-46d7-8011-c98fb832415a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_gun\/obj_gun.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "286eafea-d40a-4086-a630-6f664aa3e4c1",
+            "Value": {
+                "id": "d8dfc2df-4405-4042-8354-d084ce17ca0d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_enemy_airborn\/spr_enemy_airborn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2b3e2659-696c-4b03-b5bd-2c8aae6782d4",
+            "Value": {
+                "id": "cc7b8de0-61bd-435b-b077-fb948d1d7188",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_enemy_hit\/spr_enemy_hit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "37a1124e-4a80-4579-90a9-11f9406511f8",
             "Value": {
                 "id": "58d22294-10a5-4b4a-a847-51e2c4fb04a6",
@@ -131,6 +207,25 @@
                 ],
                 "resourcePath": "views\/37a1124e-4a80-4579-90a9-11f9406511f8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3a92c3ae-a546-4f25-af69-ba141e11976d",
+            "Value": {
+                "id": "cf4afbb2-054b-41b2-bee0-2d01e2f49b8f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_gun\/spr_gun.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -172,6 +267,44 @@
             }
         },
         {
+            "Key": "4e8743d6-2b4a-4c3b-aea4-6fc113f51740",
+            "Value": {
+                "id": "a9ee8312-245a-44b8-9717-b24f58edc490",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_bullet\/obj_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4ee5ad16-a790-400b-9dc9-c37dab2508ac",
+            "Value": {
+                "id": "9ec05aaf-b7fc-446b-a4a8-5078a4de7c72",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_enemy_dead\/spr_enemy_dead.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4eeef22f-1653-4734-a593-eb0b5f06b47e",
             "Value": {
                 "id": "ad0e9d7a-0408-4d52-8d74-b8ff26e750e8",
@@ -207,6 +340,25 @@
                 ],
                 "resourcePath": "views\/57b84b5a-c501-4e22-ae9f-e5b09a856d69.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5bd16fbc-a20c-4824-a025-1b3d859126aa",
+            "Value": {
+                "id": "7f22c392-a5cd-461c-91c0-b7a6cdcf6e4e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_enemy\/spr_enemy.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -435,6 +587,44 @@
                 ],
                 "resourcePath": "sprites\/spr_wall\/spr_wall.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d8bdb17b-0850-43f5-b56a-ca5bc081c832",
+            "Value": {
+                "id": "ed5baab1-d43a-46fa-9295-1e48708a1b7f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_bullet\/spr_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d8d63450-1c8f-4532-82f7-aac4c699ad54",
+            "Value": {
+                "id": "f89e1e4e-f061-47f0-86b3-291c75ffb8e2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_enemy\/obj_enemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
